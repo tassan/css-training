@@ -1,0 +1,40 @@
+.post {
+    width: 560px;
+    height: auto;
+  }
+  
+  .post-header {
+    width: 550px;
+    height: 150px;
+    display: flex;
+    background-color: #95020d;
+  }
+  
+  .banner {
+    width: 550px;
+    height: 150px;
+  }
+  
+  .akira-name {
+    color: white;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 2em;
+    writing-mode: vertical-lr;
+    position: ;
+    float: right;
+    padding-top: 4%;
+    padding-right: 3%;
+    padding-left: 2%;
+    padding-bottom: 1%;
+  }
+  
+  .text {
+    width: 550px;
+    height: auto;
+    text-align: justify;
+  }
+  
+  .speak {
+    color: #95020d;
+    font-weight: bold;
+  }
